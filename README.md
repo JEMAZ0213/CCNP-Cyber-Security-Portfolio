@@ -5,7 +5,7 @@ Labs on setting up networks with Cisco protocols.
  - [Complete Portfolio][COMPLETE]
 
 - CCNP Labs
-  - Single Area OSPF
+  - [Single Area OSPF][ospf] 
   - Multi Area OSPF  
   - Border Gateway Protocol 
   - Internal Gateway Protocol 
@@ -33,8 +33,8 @@ Labs on setting up networks with Cisco protocols.
 [bgp]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/4Border%20Gateway%20Protocol.docx
 [ibgp]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/5Internal%20Border%20Gateway%20Protocol.docx
 [voip]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/6Voice%20Over%20IP.docx
-[vrf]: https://github.com/Deleted-0970/Cisco-Networking-Portfolio/tree/main/Writeups/VRF.docx
-[mpls]: https://github.com/Deleted-0970/Cisco-Networking-Portfolio/tree/main/Writeups/MPLS.docx
+[vrf]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/9Virtural%20Routing%20and%20Forwarding.docx
+[mpls]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/10Multi%20Protocol%20Layer%20Switching%20lab.docx
 [aws1]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/7AWS1-3.docx
 [aws2]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/8AWS4-6.docx
 [lab0]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/11Palo%20Alto%20Factory%20Reset.docx
@@ -49,5 +49,5 @@ Labs on setting up networks with Cisco protocols.
 [lab9]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/21Clientless%20VPN.docx
 [lab10]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/15Pf%20Sens%20Open%20Source%20Firewall%20Configuration.docx
 [lab11]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/19CiscoASA%20SOHO%20Configuration.docx
-[COMPLETE]: https://github.com/Deleted-0970/Cisco-Networking-Portfolio/tree/main/Writeups/Complete%20Portfolio.docx
+[COMPLETE]: 
 
