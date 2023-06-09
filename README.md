@@ -1,5 +1,4 @@
-# Portfolio
-Labs on setting up networks with Cisco protocols. 
+# CCNP & Cyber Security Portfolio
 
 ## <ins>Labs</ins>
 - CCNP Labs
