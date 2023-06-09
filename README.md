@@ -1,9 +1,7 @@
 # Portfolio
 Labs on setting up networks with Cisco protocols. 
 
-## <ins>Complete Network Adminstration Portfolio</ins>
- - [Complete Portfolio][COMPLETE]
-
+## <ins>Labs</ins>
 - CCNP Labs
   - [Single Area OSPF][ospf] 
   - [Multi Area OSPF][mospf] 
@@ -49,5 +47,5 @@ Labs on setting up networks with Cisco protocols.
 [lab9]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/21Clientless%20VPN.docx
 [lab10]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/15Pf%20Sens%20Open%20Source%20Firewall%20Configuration.docx
 [lab11]: https://github.com/JEMAZ0213/CCNP-Portfolio/blob/main/19CiscoASA%20SOHO%20Configuration.docx
-[COMPLETE]: 
+
 
